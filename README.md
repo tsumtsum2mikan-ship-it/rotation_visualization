@@ -1,0 +1,2 @@
+# rotation_visualization
+MATLABを用いた立体表現における光源および視点の可視化
